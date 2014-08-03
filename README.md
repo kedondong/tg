@@ -142,3 +142,5 @@ If two or more peers have same name, <sharp>number is appended to the name. (for
 * **stats** - just for debugging
 * **show_license** - prints contents of GPLv2
 * **help** - prints this help
+
+edited by Dimas
